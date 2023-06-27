@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Laravel-Checklister",
+			"path": "."
+		},
+		{
+			"name": "ui",
+			"path": "../ui/ui"
+		}
+	],
+	"settings": {}
+}
