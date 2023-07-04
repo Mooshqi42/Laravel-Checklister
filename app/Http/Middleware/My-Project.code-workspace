@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"name": "My-Project",
+			"path": "../../../../My-Project"
+		},
+		{
+			"name": ".github",
+			"path": "../../../../coreui-free-bootstrap-admin-template/.github"
+		},
+		{
+			"name": "build",
+			"path": "../../../../coreui-free-bootstrap-admin-template/build"
+		},
+		{
+			"name": "dist",
+			"path": "../../../../coreui-free-bootstrap-admin-template/dist"
+		},
+		{
+			"name": "src",
+			"path": "../../../../coreui-free-bootstrap-admin-template/src"
+		},
+		{
+			"name": ".git",
+			"path": "../../../../coreui-free-bootstrap-admin-template/.git"
+		}
+	],
+	"settings": {
+		"explorer.openEditors.minVisible": 9,
+		"explorer.sortOrder": "type"
+	}
+}
